@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/https//ItCreatorNik.github.io/react-shop/static/css/main.132449de.css",
+    "main.js": "/https//ItCreatorNik.github.io/react-shop/static/js/main.281b9819.js",
+    "index.html": "/https//ItCreatorNik.github.io/react-shop/index.html",
+    "main.132449de.css.map": "/https//ItCreatorNik.github.io/react-shop/static/css/main.132449de.css.map",
+    "main.281b9819.js.map": "/https//ItCreatorNik.github.io/react-shop/static/js/main.281b9819.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.132449de.css",
+    "static/js/main.281b9819.js"
+  ]
+}
